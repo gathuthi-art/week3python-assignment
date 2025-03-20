@@ -18,7 +18,7 @@ elif operation == "/":
     else:
         result = "Error! Division by zero."
 else:
-    result = "Invalid operation!"
+    result = "Invalid operation!" 
 
 # Print the result
 print(f"{num1} {operation} {num2} = {result}")
